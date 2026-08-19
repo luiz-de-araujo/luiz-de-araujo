@@ -9,16 +9,13 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
 ### Who I am 🧠  
 
 🔹 Name: Luiz Eduardo  
-🔸 Age: 23  
+🔸 Age: 25  
 🔹 Living in: São Paulo, Brazil  
 🔸 Curiosity: Since I was 5 years old I like to play games, even I tried to be a proplayer sadly I don't have enough for that, then turned it into my hobby 😁  
   
 ### Social 🤵  
 
 <div>
-    <a target='_blank' href="https://instagram.com/xdudaraujo">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
     <a target='_blank' href="https://www.linkedin.com/in/luiz-araujo1105/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee">
     </a>
