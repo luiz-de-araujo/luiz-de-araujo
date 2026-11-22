@@ -1,36 +1,24 @@
-### Hi there 👋  
+## Hi, I'm Luiz 👋
 
-My name is Luiz Eduardo, I'm a Brazilian Developer and I'll show you a little about myself.
-  
-### About me ❓  
+Full stack software engineer in Campinas, Brazil, with 5+ years building financial technology at scale.
 
-So, I'm a Software Developer, passionate about code, logic and knowledge. The greatest pleasure I've today is to learn something new and pass that knowledge on also I've a very good didactic to achieve that.  
+Most of my work lives where reliability matters: high-availability backend services, integrations between platforms, and the interfaces people use every day. I care about software that is easy to change, easy to operate and easy for the next engineer to read.
 
-### Who I am 🧠  
+### What I work on
 
-🔹 Name: Luiz Eduardo  
-🔸 Age: 25  
-🔹 Living in: São Paulo, Brazil  
-🔸 Curiosity: Since I was 5 years old I like to play games, even I tried to be a proplayer sadly I don't have enough for that, then turned it into my hobby 😁  
-  
-### Social 🤵  
+- 🧩 **Backend and APIs**: reliable, observable services
+- 🖥️ **Front end**: fast, accessible, responsive web apps
+- 🔗 **Integrations**: payments, third-party APIs and internal systems
+- ☁️ **Cloud and delivery**: CI/CD, deployment and monitoring
+- 🤖 **AI in practice**: LLM-powered features and AI-assisted development, with tests and code review still in charge
 
-<div>
-    <a target='_blank' href="https://www.linkedin.com/in/luiz-araujo1105/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee">
-    </a>
-</div>
-  
-### Languages and Tools:  
+### How I work
 
-<div>
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</div>
+- Start from the problem, not the technology
+- Ship small, reviewable changes
+- Measure before optimizing
+- Leave the codebase better than I found it
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-araujo1105)
