@@ -10,7 +10,7 @@ Most of my work lives where reliability matters: high-availability backend servi
 - 🖥️ **Front end**: fast, accessible, responsive web apps
 - 🔗 **Integrations**: payments, third-party APIs and internal systems
 - ☁️ **Cloud and delivery**: CI/CD, deployment and monitoring
-- 🤖 **AI in practice**: LLM-powered features and AI-assisted development, with tests and code review still in charge
+- 🤖 **AI in practice**: AI-assisted development, with tests and code review still in charge
 
 ### How I work
 
